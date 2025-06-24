@@ -3,7 +3,7 @@ DeafMan1983.Utilities is for only Linux/macOS
 
 # From old release: 
 > 1.2.0 legacy for byte*/byte** and char*/char** for only Windows
-But latest version 1.3.0 - Removed byte*/byte** and char*/char** because I won't work for Windows 11 or greater than 11 because I am working on Ubuntu 25.04 Sorry for that, Windows-Hackers - because some hackers are fault to use my old account. That is why my account was updated - you can't try to hack my :D.
+But latest version 1.3.0 - Removed byte*/byte** and char*/char** because I won't work for Windows 11 or greater than 11 because I am working on Ubuntu 25.04 Sorry for that, Windows-Hackers - because some hackers are fault to use my old account. That is why my account was updated - you can't try to hack my accout. :D.
 
 That is reason why do I not use Windows because hackers always open my backdoor. That is why I gave up to use Windows. That is hard punishment against Windows!
 
